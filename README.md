@@ -1,1 +1,1 @@
-# docker-php7.3.3xdebug-PHPSTORM-fpm
+Funkční Debugger v PhpStorm, už žádný var_dump :-)
